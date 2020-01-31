@@ -65,53 +65,53 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-id="Star World" tvg-name="Star World" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9c316dr.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
-#EXTINF:-1,beIN Movies Action ,HD " group="Movies",beIN Movies Action
+#EXTINF:-1,beIN Movies Action ,HD " group-title="Movies",beIN Movies Action
 http://rb-group-server.com:25461/holland1/holland2/2964
-#EXTINF:-1,OSN Action HD" group="Movies",OSN Action HD
+#EXTINF:-1,OSN Action HD" group-title="Movies",OSN Action HD
 http://rb-group-server.com:25461/holland1/holland2/6369
-#EXTINF:0 type="stream" channelId="-1" name="NETFLIX BOX OFFICE" group="Movies", NETFLIX BOX OFFICE
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX BOX OFFICE" group-title="Movies", NETFLIX BOX OFFICE
 http://beryantv.com:25461/78917097987874/78917097987874/875
-#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 2" group="Movies", NETFLIX ACTION 2
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 2" group-title="Movies", NETFLIX ACTION 2
 http://beryantv.com:25461/78917097987874/78917097987874/877
-#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 1" group="Movies", NETFLIX ACTION 1
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 1" group-title="Movies", NETFLIX ACTION 1
 http://beryantv.com:25461/78917097987874/78917097987874/878
-#EXTINF:0 type="stream" channelId="-1" name="OSN Movies HD" group="Movies", OSN Movies HD
+#EXTINF:0 type="stream" channelId="-1" name="OSN Movies HD" group-title="Movies", OSN Movies HD
 http://beryantv.com:25461/78917097987874/78917097987874/884
-#EXTINF:0 type="stream" channelId="-1" name="OSN First Movies HD" group="Movies", OSN First Movies HD
+#EXTINF:0 type="stream" channelId="-1" name="OSN First Movies HD" group-title="Movies", OSN First Movies HD
 http://beryantv.com:25461/78917097987874/78917097987874/885
-#EXTINF:0 type="stream" channelId="-1" name="OSN First Movies 2 HD" group="Movies", OSN First Movies 2 HD
+#EXTINF:0 type="stream" channelId="-1" name="OSN First Movies 2 HD" group-title="Movies", OSN First Movies 2 HD
 http://beryantv.com:25461/78917097987874/78917097987874/886
-#EXTINF:0 type="stream" channelId="-1" name="OSN Comedy HD" group="Movies", OSN Comedy HD
+#EXTINF:0 type="stream" channelId="-1" name="OSN Comedy HD" group-title="Movies", OSN Comedy HD
 http://beryantv.com:25461/78917097987874/78917097987874/887
-#EXTINF:0 type="stream" channelId="-1" name="OSN Action HD" group="Movies", OSN Action HD
+#EXTINF:0 type="stream" channelId="-1" name="OSN Action HD" group-title="Movies", OSN Action HD
 http://beryantv.com:25461/78917097987874/78917097987874/889
-#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 1" group="Movies", Bein Movies 1
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 1" group-title="Movies", Bein Movies 1
 http://beryantv.com:25461/78917097987874/78917097987874/1165
-#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 2" group="Movies", Bein Movies 2
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 2" group-title="Movies", Bein Movies 2
 http://beryantv.com:25461/78917097987874/78917097987874/1166
-#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 3" group="Movies", Bein Movies 3
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 3" group-title="Movies", Bein Movies 3
 http://beryantv.com:25461/78917097987874/78917097987874/1167
-#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 4" group="Movies", Bein Movies 4
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 4" group-title="Movies", Bein Movies 4
 http://beryantv.com:25461/78917097987874/78917097987874/1168
-#EXTINF:0 type="stream" channelId="-1" name="MY-Film-Box" group="Movies", MY-Film-Box
+#EXTINF:0 type="stream" channelId="-1" name="MY-Film-Box" group-title="Movies", MY-Film-Box
 http://beryantv.com:25461/78917097987874/78917097987874/891
-#EXTINF:0 type="stream" channelId="2481" name="FOX-Action" group="Movies", FOX-Action
+#EXTINF:0 type="stream" channelId="2481" name="FOX-Action" group-title="Movies", FOX-Action
 http://beryantv.com:25461/78917097987874/78917097987874/892
-#EXTINF:0 type="stream" channelId="177" name="FOX" group="Movies", FOX
+#EXTINF:0 type="stream" channelId="177" name="FOX" group-title="Movies", FOX
 http://beryantv.com:25461/78917097987874/78917097987874/894
-#EXTINF:0 type="stream" channelId="-1" name="My-Cinema" group="Movies", My-Cinema
+#EXTINF:0 type="stream" channelId="-1" name="My-Cinema" group-title="Movies", My-Cinema
 http://beryantv.com:25461/78917097987874/78917097987874/895
-#EXTINF:0 type="stream" channelId="-1" name="HBO-1" group="Movies", HBO-1
+#EXTINF:0 type="stream" channelId="-1" name="HBO-1" group-title="Movies", HBO-1
 http://beryantv.com:25461/78917097987874/78917097987874/896
-#EXTINF:0 type="stream" channelId="935" name="HBO-2" group="Movies", HBO-2
+#EXTINF:0 type="stream" channelId="935" name="HBO-2" group-title="Movies", HBO-2
 http://beryantv.com:25461/78917097987874/78917097987874/897
-#EXTINF:0 type="stream" channelId="3184" name="HBO-3" group="Movies", HBO-3
+#EXTINF:0 type="stream" channelId="3184" name="HBO-3" group-title="Movies", HBO-3
 http://beryantv.com:25461/78917097987874/78917097987874/898
-#EXTINF:0 type="stream" channelId="-1" name="AD-Nat-Geo" group="General", AD-Nat-Geo
+#EXTINF:0 type="stream" channelId="-1" name="AD-Nat-Geo" group-title="General", AD-Nat-Geo
 http://beryantv.com:25461/78917097987874/78917097987874/909
-#EXTINF:0 type="stream" channelId="-1" name="Nat-Geo-CZ" group="General", Nat-Geo-CZ
+#EXTINF:0 type="stream" channelId="-1" name="Nat-Geo-CZ" group-title="General", Nat-Geo-CZ
 http://beryantv.com:25461/78917097987874/78917097987874/910
-#EXTINF:0 type="stream" channelId="50" name="Animal-Planet" group="General", Animal-Planet
+#EXTINF:0 type="stream" channelId="50" name="Animal-Planet" group-title="General", Animal-Planet
 http://beryantv.com:25461/78917097987874/78917097987874/911
-#EXTINF:0 type="stream" channelId="-1" name="Fishing-And-Hunt" group="General", Fishing-And-Hunt
+#EXTINF:0 type="stream" channelId="-1" name="Fishing-And-Hunt" group-title="General", Fishing-And-Hunt
 http://beryantv.com:25461/78917097987874/78917097987874/912
