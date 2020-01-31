@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Al Quraan" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" tvg-country="SA" tvg-url="" group-title="Religious",Al Quran Al Kareem (Mecca)
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 tvg-id="Al Quraan KW" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="KW" tvg-url="" group-title="Religious",Al-Qurain KTV
+https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 2 Arabic
+http://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VNtbK3l.png" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nSgfU0.png" group-title="News",Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_720p.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Al Hadath IQ
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+#EXTINF:-1 tvg-id="Al Araby" tvg-language="Al Araby" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Hurra Iraq" tvg-name="Al Hurra Iraq" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" tvg-country="IQ" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 tvg-id="rt-arab" tvg-name="RT Арабский" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fUgJINs.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",RT Arabic
+http://rt-arab.secure.footprint.net:80/1104.m3u8?streamType=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" tvg-country="YE" tvg-url="" group-title="News",Al Masirah Mubacher
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" tvg-country="UK" tvg-url="" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XyMDWkz.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Mayadeen TV
+http://95.170.215.109/hls/MAYADEEN-Backup-M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png" tvg-country="IQ" tvg-url="" group-title="News",Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x5buqzt.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Rafidain HQ
+http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://altaghier.tv/wp-content/uploads/2019/11/altaghier-tv-w.png" tvg-country="IQ" tvg-url="" group-title="News",Al Taghayer
+https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al-Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="Dijlah" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" tvg-country="IQ" tvg-url="" group-title="News",Dijlah
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RxfBIwt.png" tvg-country="EG" tvg-url="" group-title="News",Extra News
+http://149.100.10.162:8001/play/s28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="beIN Sports ARB" tvg-name="beIN Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cqdjHHR.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",beIN Sports HD
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cqdjHHR.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",beIN Sports HD 1
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" tvg-country="EG" tvg-url="" group-title="Sport",ON Sport
+http://149.100.10.162:8011/play/s234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" tvg-country="EG" tvg-url="" group-title="Sport",ON Sport
+http://149.100.10.162:8018/play/s213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" tvg-country="EG" tvg-url="" group-title="Sport",ON Sport
+http://149.100.10.162:8011/play/s234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" tvg-country="EG" tvg-url="" group-title="Sport",ON Sport
+http://149.100.10.162:8018/play/s213
+#EXTINF:-1 tvg-id="MBC 2 " tvg-name="MBC 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC 2 HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
+#EXTINF:-1 tvg-id="MBC Action " tvg-name="MBC Action " tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:-1 tvg-id="MBC Action " tvg-name="MBC Action " tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+#EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="MBC Masr 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1 tvg-id="Star Movies" tvg-name="Star Movies" tvg-language="Arabic" tvg-logo="https://i.imgur.com/DQ1RfUa.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-id="Star World" tvg-name="Star World" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9c316dr.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+#EXTINF:-1,beIN Movies Action ,HD " group="Movies",beIN Movies Action
+http://rb-group-server.com:25461/holland1/holland2/2964
+#EXTINF:-1,OSN Action HD" group="Movies",OSN Action HD
+http://rb-group-server.com:25461/holland1/holland2/6369
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX BOX OFFICE" group="Movies", NETFLIX BOX OFFICE
+http://beryantv.com:25461/78917097987874/78917097987874/875
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 2" group="Movies", NETFLIX ACTION 2
+http://beryantv.com:25461/78917097987874/78917097987874/877
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 1" group="Movies", NETFLIX ACTION 1
+http://beryantv.com:25461/78917097987874/78917097987874/878
+#EXTINF:0 type="stream" channelId="-1" name="OSN Movies HD" group="Movies", OSN Movies HD
+http://beryantv.com:25461/78917097987874/78917097987874/884
+#EXTINF:0 type="stream" channelId="-1" name="OSN First Movies HD" group="Movies", OSN First Movies HD
+http://beryantv.com:25461/78917097987874/78917097987874/885
+#EXTINF:0 type="stream" channelId="-1" name="OSN First Movies 2 HD" group="Movies", OSN First Movies 2 HD
+http://beryantv.com:25461/78917097987874/78917097987874/886
+#EXTINF:0 type="stream" channelId="-1" name="OSN Comedy HD" group="Movies", OSN Comedy HD
+http://beryantv.com:25461/78917097987874/78917097987874/887
+#EXTINF:0 type="stream" channelId="-1" name="OSN Action HD" group="Movies", OSN Action HD
+http://beryantv.com:25461/78917097987874/78917097987874/889
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 1" group="Movies", Bein Movies 1
+http://beryantv.com:25461/78917097987874/78917097987874/1165
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 2" group="Movies", Bein Movies 2
+http://beryantv.com:25461/78917097987874/78917097987874/1166
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 3" group="Movies", Bein Movies 3
+http://beryantv.com:25461/78917097987874/78917097987874/1167
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies 4" group="Movies", Bein Movies 4
+http://beryantv.com:25461/78917097987874/78917097987874/1168
+#EXTINF:0 type="stream" channelId="-1" name="MY-Film-Box" group="Movies", MY-Film-Box
+http://beryantv.com:25461/78917097987874/78917097987874/891
+#EXTINF:0 type="stream" channelId="2481" name="FOX-Action" group="Movies", FOX-Action
+http://beryantv.com:25461/78917097987874/78917097987874/892
+#EXTINF:0 type="stream" channelId="177" name="FOX" group="Movies", FOX
+http://beryantv.com:25461/78917097987874/78917097987874/894
+#EXTINF:0 type="stream" channelId="-1" name="My-Cinema" group="Movies", My-Cinema
+http://beryantv.com:25461/78917097987874/78917097987874/895
+#EXTINF:0 type="stream" channelId="-1" name="HBO-1" group="Movies", HBO-1
+http://beryantv.com:25461/78917097987874/78917097987874/896
+#EXTINF:0 type="stream" channelId="935" name="HBO-2" group="Movies", HBO-2
+http://beryantv.com:25461/78917097987874/78917097987874/897
+#EXTINF:0 type="stream" channelId="3184" name="HBO-3" group="Movies", HBO-3
+http://beryantv.com:25461/78917097987874/78917097987874/898
+#EXTINF:0 type="stream" channelId="-1" name="AD-Nat-Geo" group="General", AD-Nat-Geo
+http://beryantv.com:25461/78917097987874/78917097987874/909
+#EXTINF:0 type="stream" channelId="-1" name="Nat-Geo-CZ" group="General", Nat-Geo-CZ
+http://beryantv.com:25461/78917097987874/78917097987874/910
+#EXTINF:0 type="stream" channelId="50" name="Animal-Planet" group="General", Animal-Planet
+http://beryantv.com:25461/78917097987874/78917097987874/911
+#EXTINF:0 type="stream" channelId="-1" name="Fishing-And-Hunt" group="General", Fishing-And-Hunt
+http://beryantv.com:25461/78917097987874/78917097987874/912
